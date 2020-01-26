@@ -43,3 +43,10 @@ vet         report likely mistakes in packages
 ----
 
 * ***[Hello World](https://github.com/ankurrai1/getting_started_GO/blob/master/hello.go)***
+* ***[Variable](https://github.com/ankurrai1/getting_started_GO/blob/master/variable.go)***
+* ***[Conditions](https://github.com/ankurrai1/getting_started_GO/blob/master/consditions.go)***
+* ***[Array And Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop.go)***
+* ***[Map](https://github.com/ankurrai1/getting_started_GO/blob/master/json_like_map.go)***
+* ***[Functions](https://github.com/ankurrai1/getting_started_GO/blob/master/functions.go)***
+* ***[Struct](https://github.com/ankurrai1/getting_started_GO/blob/master/struct.go)***
+* ***[Pointer](https://github.com/ankurrai1/getting_started_GO/blob/master/pointer.go)***
