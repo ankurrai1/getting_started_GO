@@ -13,6 +13,20 @@
 click on `GO OFFICIAL DOWNLOAD PAGE` for go official download page and select your `Operating System`
 and follow installation process after Download.
 
+> it automatically set GOPATH to root, to check run this in terminal or cmd `go env GOPATH`
+to know what is current GOPATH
+
+>Go to path folder and create directory with name go `mkdir go` (to create directory)
+under this you have to create three other folders `src` ,`pkg` and `bin`.
+
+> after above go to your `src` folder and create your app folder and start coding :)
+
+#### To Run golang file
+
+` go run <file_name> `
+
+> Other commands are as following
+
 ----
 ## usage
     go <commands> [arguments]
