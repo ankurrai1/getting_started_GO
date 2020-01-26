@@ -1,5 +1,10 @@
 # getting_started_GO
 
+
+ >This folder consists of only basic code without and big logic
+ which helps to understand the basic syntax of language
+
+
 ----
 ## usage
     go <commands> [arguments]
@@ -34,7 +39,7 @@ vet         report likely mistakes in packages
 
 `"go help <topic>"`
 
-### >This folder consists of only basic code without and big logic
-### >which helps to understand the basic syntax of language
+## Some example code links
+----
 
 * ***[Hello World](https://github.com/ankurrai1/getting_started_GO/blob/master/hello.go)***
