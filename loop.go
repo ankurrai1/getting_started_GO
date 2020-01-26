@@ -27,4 +27,15 @@ func main()  {
   s = append(s,44)
   fmt.Println("after append 22 and 44 to dynaminc array s : ",s)
 
+  // for loop is the only loop in this laguage to iterate over;
+
+  for i:=0; i<5; i++ {
+    fmt.Println(a[i])
+  }
+
+  // another type of for loop in Go to iterate over array
+  for index, value := range a {
+      fmt.Println("index ",index,"value ",value)
+  }
+
 }

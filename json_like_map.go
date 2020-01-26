@@ -24,4 +24,8 @@ func main(){
   delete(edges,"thickness");
 
   fmt.Println("map after deleting the thickness : ",edges,"\n")
+
+  for key, value := range edges {
+      fmt.Println("key ",key,"value ",value)
+  }
 }
