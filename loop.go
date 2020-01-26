@@ -11,7 +11,7 @@ func main()  {
 
   // getting and changing the value of Array
   arr[3] = 5
-  fmt.Println("array after change : ",a,"\n");
+  fmt.Println("array after change : ",arr,"\n");
 
   // Second methed of array init With some initial value
   a := [5]int{3,4,5,6,7}
@@ -23,8 +23,8 @@ func main()  {
 
 	var s []int = primes[1:4] // init without any size and it is a dynamic One
 	fmt.Println(s)
-  s.append(22)
-  s.append(44)
+  s = append(s,22)
+  s = append(s,44)
   fmt.Println("after append 22 and 44 to dynaminc array s : ",s)
 
 }
