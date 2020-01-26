@@ -6,8 +6,8 @@
 ## Installing Go
 ----
 
-***[ GO OFFICIAL ](https://golang.org/)***
-***[ GO OFFICIAL DOWNLOAD PAGE](https://golang.org/dl/)***
+* ***[ GO OFFICIAL ](https://golang.org/)***
+* ***[ GO OFFICIAL DOWNLOAD PAGE](https://golang.org/dl/)***
 
 >Click on above `GO OFFICIAL` link will take to golang official site.
 click on `GO OFFICIAL DOWNLOAD PAGE` for go official download page and select your `Operating System`
