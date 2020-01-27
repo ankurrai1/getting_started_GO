@@ -38,6 +38,11 @@ func main()  {
   var x int = 59
   fmt.Printf("x is : %d  %T \n",x,x);
   var newX string = strconv.Itoa(x)
-  fmt.Printf("now the same above variable is of type is : %T x = %v",newX,newX)
+  fmt.Printf("now the same above variable is of type is : %T x = %v \n",newX,newX)
+
+
+  // complex type variable can be used in this language
+   var someCom complex64 = 1 + 2i
+   fmt.Printf("%v and its type is : %T",someCom,someCom)
 
 }
