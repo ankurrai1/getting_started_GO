@@ -75,3 +75,4 @@ vet         report likely mistakes in packages
 * ***[Pointer](https://github.com/ankurrai1/getting_started_GO/blob/master/pointer.go)***
 * ***[Basic Calculator Example](https://github.com/ankurrai1/getting_started_GO/blob/master/calculater.go)***
 * ***[Sum and Subtraction of two numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_sub.go)***
+* ***[Area and Perimeter of Rectangle](https://github.com/ankurrai1/getting_started_GO/blob/master/rect.go)***
