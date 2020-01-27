@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	var w int
 	var h int
+	var w int
 	fmt.Print("enter hight:")
 
 	fmt.Scanln(&w)
