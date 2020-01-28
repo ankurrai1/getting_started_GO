@@ -3,13 +3,13 @@ package main
 import "fmt"
 
 func main() {
-	var a int
-	var b int
+	var h int
+	var w int
 	fmt.Print("enter hight:")
 
-	fmt.Scanln(&a)
+	fmt.Scanln(&w)
 	fmt.Print("enter width:")
-	fmt.Scanln(&b)
-	fmt.Println("area of rectangle:--", (a * b))
-	fmt.Println("area of rectangle:--", (a + b + a + b))
+	fmt.Scanln(&h)
+	fmt.Println("area of rectangle:--", (w * h))
+	fmt.Println("area of rectangle:--", (w + h + w + h))
 }
