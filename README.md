@@ -78,10 +78,9 @@ vet         report likely mistakes in packages
 * ***[Basic Calculator Example](https://github.com/ankurrai1/getting_started_GO/blob/master/calculater.go)***
 * ***[Sum and Subtraction of two numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_sub.go)***
 * ***[Area and Perimeter of Rectangle](https://github.com/ankurrai1/getting_started_GO/blob/master/rect.go)***
-<<<<<<< HEAD
 * ***[Switch Case](https://github.com/ankurrai1/getting_started_GO/blob/master/switch.go)***
-=======
 * ***[Marriage Eligibility Test](https://github.com/ankurrai1/getting_started_GO/blob/master/marriage_eligibility_test.go)***
 
 * ***[Print N Num By Using Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop2.go)***
->>>>>>> 4aeaec648eef77be9b719a271090a6e222361568
+
+* ***[Sum & Average of 10 Numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_average.go)***
