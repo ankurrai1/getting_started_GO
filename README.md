@@ -66,6 +66,7 @@ vet         report likely mistakes in packages
 
 * ***[Hello World](https://github.com/ankurrai1/getting_started_GO/blob/master/hello.go)***
 * ***[Variable](https://github.com/ankurrai1/getting_started_GO/blob/master/variable.go)***
+* ***[Constants ](https://github.com/ankurrai1/getting_started_GO/blob/master/constants.go)***
 * ***[Variable more deeply](https://github.com/ankurrai1/getting_started_GO/blob/master/advance_variable.go)***
 * ***[Conditions](https://github.com/ankurrai1/getting_started_GO/blob/master/consditions.go)***
 * ***[Array And Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop.go)***
@@ -76,4 +77,8 @@ vet         report likely mistakes in packages
 * ***[Basic Calculator Example](https://github.com/ankurrai1/getting_started_GO/blob/master/calculater.go)***
 * ***[Sum and Subtraction of two numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_sub.go)***
 * ***[Area and Perimeter of Rectangle](https://github.com/ankurrai1/getting_started_GO/blob/master/rect.go)***
+<<<<<<< HEAD
 * ***[Switch Case](https://github.com/ankurrai1/getting_started_GO/blob/master/switch.go)***
+=======
+* ***[Marriage Eligibility Test](https://github.com/ankurrai1/getting_started_GO/blob/master/marriage_eligibility_test.go)***
+>>>>>>> 4aeaec648eef77be9b719a271090a6e222361568
