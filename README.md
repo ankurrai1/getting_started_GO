@@ -66,6 +66,7 @@ vet         report likely mistakes in packages
 
 * ***[Hello World](https://github.com/ankurrai1/getting_started_GO/blob/master/hello.go)***
 * ***[Variable](https://github.com/ankurrai1/getting_started_GO/blob/master/variable.go)***
+* ***[Constants ](https://github.com/ankurrai1/getting_started_GO/blob/master/constants.go)***
 * ***[Variable more deeply](https://github.com/ankurrai1/getting_started_GO/blob/master/advance_variable.go)***
 * ***[Conditions](https://github.com/ankurrai1/getting_started_GO/blob/master/consditions.go)***
 * ***[Array And Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop.go)***
