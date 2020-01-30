@@ -68,6 +68,7 @@ vet         report likely mistakes in packages
 * ***[Variable](https://github.com/ankurrai1/getting_started_GO/blob/master/variable.go)***
 * ***[Constants ](https://github.com/ankurrai1/getting_started_GO/blob/master/constants.go)***
 * ***[iota Example ](https://github.com/ankurrai1/getting_started_GO/blob/master/iota_example.go)***
+* ***[iota Usage ](https://github.com/ankurrai1/getting_started_GO/blob/master/iota_usage.go)***
 * ***[Variable more deeply](https://github.com/ankurrai1/getting_started_GO/blob/master/advance_variable.go)***
 * ***[Conditions](https://github.com/ankurrai1/getting_started_GO/blob/master/consditions.go)***
 * ***[Array And Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop.go)***
@@ -78,12 +79,13 @@ vet         report likely mistakes in packages
 * ***[Basic Calculator Example](https://github.com/ankurrai1/getting_started_GO/blob/master/calculater.go)***
 * ***[Sum and Subtraction of two numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_sub.go)***
 * ***[Area and Perimeter of Rectangle](https://github.com/ankurrai1/getting_started_GO/blob/master/rect.go)***
-<<<<<<< HEAD
 * ***[Switch Case](https://github.com/ankurrai1/getting_started_GO/blob/master/switch.go)***
-=======
 * ***[Marriage Eligibility Test](https://github.com/ankurrai1/getting_started_GO/blob/master/marriage_eligibility_test.go)***
-
 * ***[Print N Num By Using Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop2.go)***
+<<<<<<< HEAD
 
 * ***[Print Table To Any Number ](https://github.com/ankurrai1/getting_started_GO/blob/master/table.go)***
 >>>>>>> 4aeaec648eef77be9b719a271090a6e222361568
+=======
+* ***[Sum & Average of 10 Numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_average.go)***
+>>>>>>> 71e29c4011ed095448d9794a6617f7ba807d8a5d
