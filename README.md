@@ -84,4 +84,6 @@ vet         report likely mistakes in packages
 * ***[Marriage Eligibility Test](https://github.com/ankurrai1/getting_started_GO/blob/master/marriage_eligibility_test.go)***
 
 * ***[Print N Num By Using Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop2.go)***
+
+* ***[Print Table To Any Number ](https://github.com/ankurrai1/getting_started_GO/blob/master/table.go)***
 >>>>>>> 4aeaec648eef77be9b719a271090a6e222361568
