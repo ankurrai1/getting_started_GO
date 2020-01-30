@@ -86,7 +86,5 @@ vet         report likely mistakes in packages
 * ***[Print Table To Any Number ](https://github.com/ankurrai1/getting_started_GO/blob/master/table.go)***
 
 * ***[Sum & Average of 10 Numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_average.go)***
-<<<<<<< HEAD
 * ***[Structure](https://github.com/ankurrai1/getting_started_GO/blob/master/structure.go)***
-=======
->>>>>>> 81bd8446b77c3f8098c8a0d34ddbc1e5d109f4f5
+* ***[Factorial](https://github.com/ankurrai1/getting_started_GO/blob/master/fact.go)***
