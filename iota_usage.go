@@ -21,11 +21,9 @@ func main()  {
   filesize := 500000000
   fmt.Printf("%.2f GB",filesize/GB)
 
-
   fmt.Printf("%v   %T",MB,MB)
   fmt.Printf("%v   %T",KB,KB)
   fmt.Printf("%v   %T",TB,TB)
   fmt.Printf("%v   %T",PB,PB)
-
 
 }
