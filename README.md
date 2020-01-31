@@ -88,3 +88,4 @@ vet         report likely mistakes in packages
 * ***[Sum & Average of 10 Numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_average.go)***
 * ***[Structure](https://github.com/ankurrai1/getting_started_GO/blob/master/structure.go)***
 * ***[Factorial](https://github.com/ankurrai1/getting_started_GO/blob/master/fact.go)***
+* ***[Stucture2](https://github.com/ankurrai1/getting_started_GO/blob/master/struct2.go)***
