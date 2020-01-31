@@ -71,6 +71,7 @@ vet         report likely mistakes in packages
 * ***[iota Usage ](https://github.com/ankurrai1/getting_started_GO/blob/master/iota_usage.go)***
 * ***[Variable more deeply](https://github.com/ankurrai1/getting_started_GO/blob/master/advance_variable.go)***
 * ***[Conditions](https://github.com/ankurrai1/getting_started_GO/blob/master/consditions.go)***
+* ***[Arrays And Slices](https://github.com/ankurrai1/getting_started_GO/blob/master/arrays.go)***
 * ***[Array And Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop.go)***
 * ***[Map](https://github.com/ankurrai1/getting_started_GO/blob/master/json_like_map.go)***
 * ***[Functions](https://github.com/ankurrai1/getting_started_GO/blob/master/functions.go)***
