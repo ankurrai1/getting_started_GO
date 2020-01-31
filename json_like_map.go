@@ -20,6 +20,10 @@ func main(){
 
   fmt.Println("Printing some specific values : ", edges["side"])
 
+  // the ok variable will say true or false on found that key or not
+  val ,ok :=  edges["si"]
+
+  fmt.Println(val,"  ",ok)
   // deleting some thing form map by key name
   delete(edges,"thickness");
 
