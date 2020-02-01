@@ -3,7 +3,7 @@ package main
 import (
   "fmt"
 )
-
+// maps are passed by referance
 func main(){
   //basically a map is a dic of python object in javascript or
   // in more simple words it is a key value pair of data
