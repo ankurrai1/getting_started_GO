@@ -65,7 +65,6 @@ vet         report likely mistakes in packages
 ----
 
 * ***[Hello World](https://github.com/ankurrai1/getting_started_GO/blob/master/hello.go)***
-
 * ***[Variable](https://github.com/ankurrai1/getting_started_GO/blob/master/variable.go)***
 * ***[Constants ](https://github.com/ankurrai1/getting_started_GO/blob/master/constants.go)***
 * ***[iota Example ](https://github.com/ankurrai1/getting_started_GO/blob/master/iota_example.go)***
@@ -88,10 +87,8 @@ vet         report likely mistakes in packages
 * ***[Switch Case](https://github.com/ankurrai1/getting_started_GO/blob/master/switch.go)***
 * ***[Marriage Eligibility Test](https://github.com/ankurrai1/getting_started_GO/blob/master/marriage_eligibility_test.go)***
 * ***[Print N Num By Using Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop2.go)***
-
-* ***[Print Table To Any Number ](https://github.com/ankurrai1/getting_started_GO/blob/master/table.go)***
-
+* ***[Print Table of Any Number ](https://github.com/ankurrai1/getting_started_GO/blob/master/table.go)***
 * ***[Sum & Average of 10 Numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_average.go)***
-* ***[Structure](https://github.com/ankurrai1/getting_started_GO/blob/master/structure.go)***
+* ***[Structure Examples](https://github.com/ankurrai1/getting_started_GO/blob/master/structure.go)***
+* ***[Structure Example 2](https://github.com/ankurrai1/getting_started_GO/blob/master/struct2.go)***
 * ***[Factorial](https://github.com/ankurrai1/getting_started_GO/blob/master/fact.go)***
-* ***[Stucture2](https://github.com/ankurrai1/getting_started_GO/blob/master/struct2.go)***
