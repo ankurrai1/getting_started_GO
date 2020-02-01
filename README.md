@@ -68,19 +68,18 @@ vet         report likely mistakes in packages
 ## Some Concepts code links
 ----
 
-* ***[Hello World](https://github.com/ankurrai1/getting_started_GO/blob/master/hello.go)***
 * ***[Variable](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/variable.go)***
-* ***[Constants ](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/constants.go)***
-* ***[iota Example ](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/iota_example.go)***
-* ***[iota Usage ](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/iota_usage.go)***
 * ***[Variable more deeply](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/advance_variable.go)***
+* ***[Constants ](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/constants.go)***
 * ***[Conditions](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/consditions.go)***
 * ***[Arrays And Slices](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/arrays.go)***
 * ***[Array And Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/loop.go)***
 * ***[Map](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/json_like_map.go)***
-* ***[Functions](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/functions.go)***
 * ***[Struct](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/struct.go)***
+* ***[Functions](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/functions.go)***
 * ***[Pointer](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/pointer.go)***
+* ***[iota Example ](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/iota_example.go)***
+* ***[iota Usage ](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/iota_usage.go)***
 
 ## Some Examples Code Links
 ----
