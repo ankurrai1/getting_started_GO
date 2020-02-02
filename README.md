@@ -83,10 +83,11 @@ vet         report likely mistakes in packages
 * ***[Switch Case](https://github.com/ankurrai1/getting_started_GO/blob/master/switch.go)***
 * ***[Marriage Eligibility Test](https://github.com/ankurrai1/getting_started_GO/blob/master/marriage_eligibility_test.go)***
 * ***[Print N Num By Using Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop2.go)***
+* ***[Print N Num By Using Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop2.go)***
 
 * ***[Print Table To Any Number ](https://github.com/ankurrai1/getting_started_GO/blob/master/table.go)***
 
 * ***[Sum & Average of 10 Numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_average.go)***
 * ***[Structure](https://github.com/ankurrai1/getting_started_GO/blob/master/structure.go)***
 * ***[Factorial](https://github.com/ankurrai1/getting_started_GO/blob/master/fact.go)***
-* ***[Stucture2](https://github.com/ankurrai1/getting_started_GO/blob/master/struct2.go)***
+* ***[Swapping](https://github.com/ankurrai1/getting_started_GO/blob/master/swap.go)***
