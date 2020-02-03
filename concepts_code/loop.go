@@ -38,4 +38,15 @@ func main()  {
       fmt.Println("index ",index,"value ",value)
   }
 
+  Loop:
+  for i:=0; i<5; i++ {
+    for j:=0; j<5; j++ {
+      if i*j > 20 {
+        break Loop   // here the loop variable will break the loop where that Loop variable is wiritten
+      } // other wise it will break at inner loop only
+      fmt.Println(i,j)
+    }
+  }
+
+
 }
