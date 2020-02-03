@@ -24,21 +24,25 @@ func main() {
 		fmt.Print("ans is : ", c)
 	}
 }
+
 func add(x, y float64) float64 {
 	var a float64
 	a = x + y
 	return (a)
 }
+
 func sub(x, y float64) float64 {
 	var a float64
 	a = x - y
 	return (a)
 }
+
 func mul(x, y float64) float64 {
 	var a float64
 	a = x * y
 	return (a)
 }
+
 func dev(x, y float64) float64 {
 	var a float64
 	a = x / y
