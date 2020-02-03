@@ -84,35 +84,6 @@ vet         report likely mistakes in packages
 ## Some Examples Code Links
 ----
 
-<<<<<<< HEAD
-* ***[Hello World](https://github.com/ankurrai1/getting_started_GO/blob/master/hello.go)***
-* ***[Variable](https://github.com/ankurrai1/getting_started_GO/blob/master/variable.go)***
-* ***[Constants ](https://github.com/ankurrai1/getting_started_GO/blob/master/constants.go)***
-* ***[iota Example ](https://github.com/ankurrai1/getting_started_GO/blob/master/iota_example.go)***
-* ***[iota Usage ](https://github.com/ankurrai1/getting_started_GO/blob/master/iota_usage.go)***
-* ***[Variable more deeply](https://github.com/ankurrai1/getting_started_GO/blob/master/advance_variable.go)***
-* ***[Conditions](https://github.com/ankurrai1/getting_started_GO/blob/master/consditions.go)***
-* ***[Arrays And Slices](https://github.com/ankurrai1/getting_started_GO/blob/master/arrays.go)***
-* ***[Array And Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop.go)***
-* ***[Map](https://github.com/ankurrai1/getting_started_GO/blob/master/json_like_map.go)***
-* ***[Functions](https://github.com/ankurrai1/getting_started_GO/blob/master/functions.go)***
-* ***[Struct](https://github.com/ankurrai1/getting_started_GO/blob/master/struct.go)***
-* ***[Pointer](https://github.com/ankurrai1/getting_started_GO/blob/master/pointer.go)***
-* ***[Basic Calculator Example](https://github.com/ankurrai1/getting_started_GO/blob/master/calculater.go)***
-* ***[Sum and Subtraction of two numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_sub.go)***
-* ***[Area and Perimeter of Rectangle](https://github.com/ankurrai1/getting_started_GO/blob/master/rect.go)***
-* ***[Switch Case](https://github.com/ankurrai1/getting_started_GO/blob/master/switch.go)***
-* ***[Marriage Eligibility Test](https://github.com/ankurrai1/getting_started_GO/blob/master/marriage_eligibility_test.go)***
-* ***[Print N Num By Using Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop2.go)***
-* ***[Print N Num By Using Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/loop2.go)***
-
-* ***[Print Table To Any Number ](https://github.com/ankurrai1/getting_started_GO/blob/master/table.go)***
-
-* ***[Sum & Average of 10 Numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/sum_average.go)***
-* ***[Structure](https://github.com/ankurrai1/getting_started_GO/blob/master/structure.go)***
-* ***[Factorial](https://github.com/ankurrai1/getting_started_GO/blob/master/fact.go)***
-* ***[Swapping](https://github.com/ankurrai1/getting_started_GO/blob/master/swap.go)***
-=======
 * ***[Basic Calculator Example](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/calculater.go)***
 * ***[Sum and Subtraction of two numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/sum_sub.go)***
 * ***[Area and Perimeter of Rectangle](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/rect.go)***
@@ -124,4 +95,3 @@ vet         report likely mistakes in packages
 * ***[Structure Examples](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/structure.go)***
 * ***[Structure Example 2](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/struct2.go)***
 * ***[Factorial](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/fact.go)***
->>>>>>> acb51413a226fbda17793b10d933ba32df04a549
