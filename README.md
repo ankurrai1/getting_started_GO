@@ -72,6 +72,7 @@ vet         report likely mistakes in packages
 * ***[Variable more deeply](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/advance_variable.go)***
 * ***[Constants ](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/constants.go)***
 * ***[Conditions](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/consditions.go)***
+* ***[Switch Case](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/switch.go)***
 * ***[Arrays And Slices](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/arrays.go)***
 * ***[Array And Loop](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/loop.go)***
 * ***[Map](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/json_like_map.go)***
