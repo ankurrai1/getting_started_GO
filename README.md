@@ -96,3 +96,4 @@ vet         report likely mistakes in packages
 * ***[Structure Example 2](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/struct2.go)***
 * ***[Factorial](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/fact.go)***
 * ***[To get Reverse of a Number](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/reverse.go)***
+* ***[To get average of Numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/average.go)***
