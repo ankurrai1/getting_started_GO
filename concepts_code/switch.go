@@ -35,9 +35,22 @@ func main()  {
 
   switch { // here we can cover negative values as well
   case num <= 1:
-    fmt.Println("num is one")
-  case num <= :
-    fmt.Println("num is two")
+    fmt.Println("num is less then or equal then one")
+  case num <= 2:
+    fmt.Println("num is less then or equal then two")
+  default:      // default case if no case will run it will fire
+    fmt.Println("num is more then two")
+  }
+
+  // fallthrough use
+  // fallthrough will check for next condition as well to match other wise it will automatically break there
+
+  switch { // here we can cover negative values as well
+  case num <= 1:
+    fmt.Println("num is less then or equal then one")
+    fallthrough
+  case num <= 2:
+    fmt.Println("num is  less then or equal then two") // it will allow to print this as well
   default:      // default case if no case will run it will fire
     fmt.Println("num is more then two")
   }
