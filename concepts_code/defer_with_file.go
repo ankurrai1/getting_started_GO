@@ -22,7 +22,6 @@ func main() {
 }
 
 
-
 func createFile(p string) *os.File {  // will create a file if not exist and retuen the referance of that file
     fmt.Println("creating")
     f, err := os.Create(p)
