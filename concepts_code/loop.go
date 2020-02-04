@@ -34,6 +34,7 @@ func main()  {
   }
 
   // another type of for loop in Go to iterate over array
+  // basucally they are key and values
   for index, value := range a {
       fmt.Println("index ",index,"value ",value)
   }

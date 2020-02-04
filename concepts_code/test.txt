@@ -1,0 +1,2 @@
+this is a test file to open close and write read
+to show some Examples
