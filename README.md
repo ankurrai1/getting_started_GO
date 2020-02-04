@@ -27,7 +27,7 @@ under this you have to create three other folders `src` ,`pkg` and `bin`.
 
 > Other commands are as following
 
-----
+-----
 ## usage
     go <commands> [arguments]
 
