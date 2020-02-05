@@ -66,7 +66,7 @@ vet         report likely mistakes in packages
 > ***[Hello World](https://github.com/ankurrai1/getting_started_GO/blob/master/hello.go)***
 
 ## Some Concepts code links
-------
+-------
 
 * ***[Variable](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/variable.go)***
 * ***[Variable more deeply](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/advance_variable.go)***
