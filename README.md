@@ -83,8 +83,9 @@ vet         report likely mistakes in packages
 * ***[iota Usage ](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/iota_usage.go)***
 * ***[Concept of defer](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/defer.go)***
 * ***[Defer use case with files](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/defer_with_file.go)***
-* ***[Defer use case with net/http](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/defer_with_file.go)***
+* ***[Defer use case with net/http](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/defer_with_http.go)***
 * ***[Panic](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/panic.go)***
+* ***[Panic use case with net/http](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/panic_with_file.go)***
 
 
 
