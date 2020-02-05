@@ -86,6 +86,7 @@ vet         report likely mistakes in packages
 * ***[Defer use case with net/http](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/defer_with_http.go)***
 * ***[Panic](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/panic.go)***
 * ***[Panic use case with net/http](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/panic_with_file.go)***
+* ***[recovery](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/recovery.go)***
 
 
 
