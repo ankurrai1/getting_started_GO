@@ -20,7 +20,7 @@ func main(){
 
   sum("hello every one",1,2,3,4,5,6,7)// it can take more as well and rape them into slices to use
   // msg = "hello every one"
-  // values = 1,2,3,4,5,6,7
+  // values = 1,2,3,4,5,6,7  these are called as "variadic parameter"
 }
 
 
