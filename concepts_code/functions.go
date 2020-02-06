@@ -17,6 +17,10 @@ func main(){
   result2,error := sqrt(-35)
 
   fmt.Println(result2,error)
+
+  sum("hello every one",1,2,3,4,5,6,7)// it can take more as well and rape them into slices to use
+  // msg = "hello every one"
+  // values = 1,2,3,4,5,6,7
 }
 
 
@@ -44,4 +48,11 @@ func sqrt(a float64) (float64,error)  {
     return 0,errors.New("Not defined for negative values")
   }
   return math.Sqrt(a), nil
+}
+
+
+//passing multipel values
+
+func sum(msg string,value ...int)  { // this must be last and one argument in function
+  fmt.Println(msg,values) // it will create it as Slices
 }
