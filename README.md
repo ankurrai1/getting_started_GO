@@ -88,6 +88,7 @@ vet         report likely mistakes in packages
 * ***[Panic use case with net/http](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/panic_with_file.go)***
 * ***[recovery](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/recovery.go)***
 * ***[Method use case](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/method.go)***
+* ***[Interface](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/interface.go)***
 
 
 
