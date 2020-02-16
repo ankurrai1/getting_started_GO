@@ -1,3 +1,4 @@
+// SIMPLE FIRST APP AT IN GO LANG
 package main
 
 import (
