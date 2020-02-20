@@ -92,6 +92,8 @@ vet         report likely mistakes in packages
 * ***[Interface with Int](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/interface_int.go)***
 * ***[Interface with Buffer](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/interface2.go)***
 * ***[Go Routine](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/goroutine.go)***
+* ***[Go Routine with WaitGroup](https://github.com/ankurrai1/getting_started_GO/blob/master/concepts_code/wait_groups.go)***
+
 
 ## Some Examples Code Links
 ----
