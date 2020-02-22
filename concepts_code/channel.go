@@ -26,20 +26,20 @@ import (
 var wg = sync.WaitGroup{}
 
 func main()  {
-  cha := make(chan int) // its strictly typed it can only send data with predefined type .
-
+  cha := make(chan int) // make(type datatype, buffer channel size Number only)
+  //its strictly typed it can only send data with predefined type .
   wg.Add(2)
 
-  go func ()  {
+  go func (cha <-chan int)  { // read only channel can only read data from channel
     num := <- cha  // getting value from channel
     fmt.Println(num)
     wg.Done()
-  }()
+  }(cha)
 
-  go func ()  {
+  go func (cha chan<- int)  { // send to only channel will send data to channel only
     cha <- 42 // sending value to channel
     wg.Done()
-  }()
+  }(cha)
 
   wg.Wait()
 }
