@@ -20,7 +20,7 @@ func main() {
 		c = mul(a, b)
 		fmt.Print("ans is : ", c)
 	case 4:
-		c = dev(a, b)
+		c = div(a, b)
 		fmt.Print("ans is : ", c)
 	}
 }
