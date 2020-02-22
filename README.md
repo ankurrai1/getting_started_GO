@@ -41,7 +41,7 @@ clean       remove object files and cached files
 doc         show documentation for package or symbol
 env         print Go environment information
 fix         update packages to use new APIs
-fmt         gofmt (reformat) package sources
+fmt         go fmt (reformat) package sources
 generate    generate Go files by processing source
 get         add dependencies to current module and install them
 install     compile and install packages and dependencies
