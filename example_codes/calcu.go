@@ -43,7 +43,7 @@ func mul(x, y float64) float64 {
 	return (a)
 }
 
-func dev(x, y float64) float64 {
+func div(x, y float64) float64 {
 	var a float64
 	a = x / y
 	return (a)
