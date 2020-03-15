@@ -1,5 +1,4 @@
 package main
-
 import "fmt"
 
 func main() {
@@ -9,6 +8,7 @@ func main() {
 	b = rev(a)
 	fmt.Print("reverse is : ", b)
 }
+
 func rev(x int) int {
 	var b, d int
 	for d = x; d > 0; d = d / 10 {
