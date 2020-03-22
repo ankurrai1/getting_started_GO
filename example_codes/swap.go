@@ -1,9 +1,10 @@
 package main
-import "fmt"
+import (
+	"fmt"
+       )
 
 func main() {
 	var a, b, c int
-
 	fmt.Println("enter a:")
 	fmt.Scanln(&a)
 	fmt.Println("enter b:")
