@@ -16,7 +16,6 @@ func main() {
 		fmt.Scanln(&x[i])
 		s = s + x[i]
 	}
-
 	avg = float64(s) / float64(n)
 	fmt.Print("sum is = ", s, "\navg is = ", avg)
 }
