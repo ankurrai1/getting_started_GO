@@ -56,7 +56,6 @@ vet         report likely mistakes in packages
 ```
 
 ## For help
-
 -------
 
 `"go help <topic>"`
