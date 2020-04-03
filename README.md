@@ -34,7 +34,6 @@ under this you have to create three other folders `src` ,`pkg` and `bin`.
 ## Some Basic Commands
 ----
 ```
-
 bug         start a bug report
 build       compile packages and dependencies
 clean       remove object files and cached files
