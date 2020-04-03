@@ -3,7 +3,7 @@
  >This folder consists of only basic code without app level implimentation and big logic
  which helps to understand the basic syntax of language. Basically we can say that it is Core Go Repo.
 
-## Installing Go
+## ***Installing Go***
 ----
 
 * ***[ GO OFFICIAL ](https://golang.org/)***
