@@ -113,6 +113,6 @@ vet         report likely mistakes in packages
 * ***[To get Reverse of a Number](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/reverse.go)***
 * ***[To get average of Numbers](https://github.com/ankurrai1/getting_started_GO/blob/master/example_codes/average.go)***
 ----
-***There is not dependency for this repo and it is opne to everey one just clone and make a copy of it for you***
+>***There is not dependency for this repo and it is opne to everey one just clone and make a copy of it for you***
 ***There is only one thing required to run each file independently is you must have go install in your local machine***
-***Go installation instruction is given in top of this file itself***
+***Go installation instruction is given in top of this file itself.***
