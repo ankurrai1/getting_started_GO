@@ -115,3 +115,4 @@ vet         report likely mistakes in packages
 ----
 ***There is not dependency for this repo and it is opne to everey one just clone and make a copy of it for you***
 ***There is only one thing required to run each file independently is you must have go install in your local machine***
+***Go installation instruction is given in to of this file itself ***
