@@ -18,8 +18,6 @@ func worker(id int, wg *sync.WaitGroup) {
    fmt.Printf("Worker %d done\n", id)
 }
 
-
-
 func main() {
 //This WaitGroup is used to wait for all the goroutines launched here to finish.
 	 var wg sync.WaitGroup
